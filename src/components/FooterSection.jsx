@@ -87,7 +87,9 @@ export default function FooterSection() {
               </ul>
             </div>
             <div className="w-full md:w-2/3">
-              <h1 className="text-lg md:text-xl font-bold pb-4">Top Rated Courses</h1>
+              <h1 className="text-lg md:text-xl font-bold pb-4">
+                Top Rated Courses
+              </h1>
               <ul className="text-xs md:text-sm pl-3 mb-2 block antialiased font-light leading-relaxed text-inherit">
                 {topRatedCourses.map(({ link, href, id }) => {
                   return (
