@@ -8,7 +8,7 @@ import Link from 'next/link';
 export default function NavbarSection() {
   return (
     <Navbar fluid rounded className="bg-s-blue">
-      <Navbar.Brand href="https://flowbite-react.com">
+      <Navbar.Brand href="/">
         <Image
           width={64}
           height={64}
