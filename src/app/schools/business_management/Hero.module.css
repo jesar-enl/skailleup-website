@@ -1,0 +1,34 @@
+/* change the images for the business management school */
+.image1 {
+  background-image: url('/images/software-2.jpg');
+}
+.image2 {
+  background-image: url('/images/software-3.jpg');
+}
+.image3 {
+  background-image: url('/images/frontend-engineering.jpg');
+}
+.image4 {
+  background-image: url('/images/backend-engineering.jpg');
+}
+.image5 {
+  background-image: url('/images/cloud-engineering.jpg');
+}
+.image6 {
+  background-image: url('/images/cyber-security.jpeg');
+}
+.image7 {
+  background-image: url('/images/data-management.jpeg');
+}
+.image8 {
+  background-image: url('/images/devops.jpeg');
+}
+.image9 {
+  background-image: url('/images/game-development.jpg');
+}
+.image10 {
+  background-image: url('/images/mobile app development.jpeg');
+}
+.image11 {
+  background-image: url('/images/Programming-languages.jpg');
+}

@@ -6,6 +6,7 @@ const urbanist = Urbanist({ subsets: ['latin'] });
 export const metadata = {
   title: 'SkailleUp',
   description: 'Your learning Path to Endless Growth!',
+icons: '/images/skailleup-logo.png',
 };
 
 export default function RootLayout({ children }) {
