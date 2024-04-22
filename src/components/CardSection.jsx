@@ -67,12 +67,12 @@ export default function CardSection() {
           readily access various resources for their growth.
         </p>
       </div>
-      <div className="slider-container gap-2 mt-3 w-3/4 m-auto">
+      <div className="slider-container gap-2 mt-3 w-3/4 h-full m-auto">
         <Slider {...settings}>
           {cardData.map((card, index) => {
             return (
               <div
-                className="flex flex-col mt-6 text-gray-700 bg-white shadow-md bg-clip-border rounded-xl"
+                className="flex flex-col mt-6 text-gray-700 h-full bg-white shadow-md bg-clip-border rounded-xl"
                 key={index}
               >
                 <div className="mx-4 -mt-6 overflow-hidden text-white shadow-lg bg-clip-border rounded-xl bg-blue-gray-500 shadow-blue-gray-500/40">
