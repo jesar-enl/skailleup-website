@@ -103,3 +103,26 @@ export const images = [
       href: '/schools/software_engineering_technology/cloud_engineering',
     },
   ];
+  
+export const business = [
+  {
+    name: 'Project Management',
+    src: '/images/software-3.jpg',
+    href: '/schools/business_management/project-management',
+  },
+  {
+    name: 'Digital Marketing',
+    src: '/images/frontend-engineering.jpg',
+    href: '/schools/business_management/digital-marketing',
+  },
+  {
+    name: 'Human Management',
+    src: '/images/backend-engineering.jpg',
+    href: '/schools/business_management/human-management',
+  },
+  {
+    name: 'Business Analysis & Management',
+    src: '/images/Programming-languages.jpg',
+    href: '/schools/business_management/business-analysis',
+  },
+];
