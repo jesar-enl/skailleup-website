@@ -20,7 +20,7 @@ const Login = () => {
         {/* Left Side - Image */}
         <div
           style={{ position: 'relative' }}
-          className="hidden sm:hidden w-1/2 p-8"
+          className="hidden sm:block w-1/2 p-8"
         >
           <Image
             src="/images/login-image.jpg"
