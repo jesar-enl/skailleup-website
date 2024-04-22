@@ -22,7 +22,7 @@ export default function NavbarSection() {
       </Navbar.Brand>
       <div className="flex gap-4 md:order-2">
         <Button className="bg-s-blue border border-s-green rounded-lg text-lg md:text-xl tracking-wide">
-          Sign in
+          <Link href="/login">Sign in</Link>
         </Button>
         <Navbar.Toggle />
       </div>
